@@ -1,3 +1,3 @@
 # MetaCoin Truffle Box
 
-MetaCoin example Truffle project
+ Deplou your ERC20 token using Truffle suite
